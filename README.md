@@ -38,3 +38,44 @@
   - [X] Network Transitions and Connectors……*已录入*（By **n0099**）
   - [X] Rail Stations……*已录入*（By **n0099**）
 - [ ] Additional Features and Customizations……**正在录入**（By **n0099**）
+
+##### JSON转化进度：正在转化
+---------------------------
+- [X] Main NAM Files……*已转化*（By **LasmGratel(铁木真的使臣)**）
+- [X] Documentation……*已转化*（By **LasmGratel(铁木真的使臣)**）
+- [X] Run Cleanitol and the Station Updater……*已转化*（By **LasmGratel(铁木真的使臣)**）
+- [X] Traffic Driving Side (Usually shouldn't be changed)……*已转化*（By **LasmGratel(铁木真的使臣)**）
+- [X] Traffic Simulator and Related Options……*已转化*（By **LasmGratel(铁木真的使臣)**）
+  - [X] Select Traffic Simulator and Capacity Levels……*已转化*（By **LasmGratel(铁木真的使臣)**）
+  - [X] New Zones Data View……*已转化*（By **LasmGratel(铁木真的使臣)**）
+  - [X] Automata Controller Type……*已转化*（By **LasmGratel(铁木真的使臣)**）
+  - [ ] NAM Networks and Network Expansions……*未转化*
+  - [ ] Bullet Train Mod (BTM)……*未转化*
+  - [ ] Canal Addon Mod (CAN-AM)……*未转化*
+  - [ ] Diagonal Streets……*未转化*
+  - [ ] Double-Height Monorail / Bullet Train Mod……*未转化*
+  - [ ] El Rail……*未转化*
+  - [ ] Elevated Road Networks……*未转化*
+  - [ ] Flexible Underpasses (FLUPs)……*未转化*
+  - [ ] Fractionally Angled Networks (FANs)……*未转化*
+  - [ ] Ground Light Rail / Tram……*未转化*
+  - [ ] High Speed Rail Plugin……*未转化*
+  - [ ] Maxis Highway Override……*未转化*
+  - [ ] Network Widening Mod (NWM)……*未转化*
+  - [ ] Ped Malls……*未转化*
+  - [ ] Rail……*未转化*
+  - [ ] Real Highway Mod (RHW)……*未转化*
+  - [ ] Rural Roads Plugin……*未转化*
+  - [ ] Street Addon Mod (SAM)……*未转化*
+- [ ] Stations, Ports, and Network Transitions……*未转化*
+  - [ ] Upgraded Maxis Transit Lots……*未转化*
+  - [ ] Maxis Airports……*未转化*
+  - [ ] Bus Rapid Transit Stations……*未转化*
+  - [ ] El Rail Stations……*未转化*
+  - [ ] GLR and Tram Stations……*未转化*
+  - [ ] High Speed Rail Stations……*未转化*
+  - [ ] Monorail and Bullet Train Stations……*未转化*
+  - [ ] Multi-Purpose Stations……*未转化*
+  - [ ] Network Transitions and Connectors……*未转化*
+  - [ ] Rail Stations……*未转化*
+- [ ] Additional Features and Customizations……**正在录入**（By **n0099**）
